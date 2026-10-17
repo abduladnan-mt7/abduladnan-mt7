@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Abdul Adnan — Founder, Mt7">
+  <defs>
+    <linearGradient id="mark" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2B0004"/>
+      <stop offset="30%" stop-color="#5E0108"/>
+      <stop offset="60%" stop-color="#8A0303"/>
+      <stop offset="85%" stop-color="#B3121B"/>
+      <stop offset="100%" stop-color="#E14444"/>
+    </linearGradient>
+    <radialGradient id="ember" cx="14%" cy="42%" r="40%">
+      <stop offset="0%" stop-color="#b3121b" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#b3121b" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="#0c0b0d"/>
+  <rect width="1200" height="300" fill="url(#ember)"/>
+
+  <!-- Anticode mark: blood-red rounded square with the mirrored liquid-X glyph -->
+  <g transform="translate(64,86) scale(1.28)">
+    <rect width="100" height="100" rx="26" fill="url(#mark)"/>
+    <path transform="matrix(-1 0 0 1 100 0) translate(-2.712 -1.356) scale(0.33898)" fill="#ffffff"
+      d="M 243.5 9.3 C 232.9 12.9, 230 15.4, 186.4 58.7 C 141.2 103.7, 137.2 107, 125 110.7 C 117.6 113, 101.6 113, 93 110.7 C 84.2 108.4, 68.9 100.6, 61.5 94.7 C 58.2 92.1, 47.9 82.4, 38.7 73.3 C 22.2 57, 19 52.9, 16.1 43.8 C 14.2 38.1, 11.1 37.9, 9.1 43.3 C 7.5 47.3, 7.8 59.7, 9.5 65.3 C 13.1 77.3, 16 80.9, 46.1 110.2 C 77.3 140.6, 79 142.8, 79 152.9 C 79 163.8, 77.8 165.4, 46.7 196.2 C 21.9 220.9, 17.9 225.3, 15.1 231 C 9.3 243, 8.6 255.6, 13.1 267.5 C 17.4 278.7, 31.5 290, 44.5 292.8 C 51.9 294.4, 98 294.6, 99 293.1 C 99.4 292.4, 98.8 289.3, 97.8 286.2 C 93.1 272, 94.7 259.9, 103.7 243 C 131.4 190.8, 193.9 128.2, 257 89.5 C 266.5 83.7, 297 68, 298.9 68 C 303.1 68, 304.2 58.5, 301.6 45.8 C 298.3 30.4, 290.1 19.6, 276.4 12.8 C 268.4 8.9, 267.4 8.7, 257.7 8.3 C 251 8.1, 246.1 8.5, 243.5 9.3 M 285 113.1 C 259.2 136.2, 243.9 163, 236.4 198 C 232.5 216.6, 227.6 223.6, 214.6 229.6 C 205.8 233.6, 192.2 232.8, 182.2 227.6 C 179.4 226.2, 179 226.2, 177.6 227.6 C 176.7 228.5, 176.3 229.7, 176.7 230.4 C 177.2 231.1, 189.2 243.1, 203.5 257.2 C 233.7 286.8, 237.3 289.2, 251.1 289.9 C 273.1 290.9, 294.8 275, 299 254.9 C 300.7 247.1, 299.8 235.1, 297 227.5 C 290.5 209.6, 289 204.4, 287.5 193.5 C 284.3 171.4, 286.5 146.1, 293.8 121.2 C 297.2 109.6, 297.5 107.7, 296.3 106.4 C 295.5 105.6, 294.7 105, 294.4 105 C 294.2 105, 289.9 108.6, 285 113.1"/>
+  </g>
+
+  <!-- Wordmark + tagline, Anticode-style restraint -->
+  <text x="240" y="150"
+        font-family="'Geist','Inter','Segoe UI',system-ui,-apple-system,sans-serif"
+        font-size="82" font-weight="700" letter-spacing="-2" fill="#f4f1ee">Abdul Adnan</text>
+
+  <text x="243" y="194"
+        font-family="'Geist','Inter','Segoe UI',system-ui,-apple-system,sans-serif"
+        font-size="23" font-weight="400" fill="#a8a3a7">Developer tools that keep your data in your hands.</text>
+
+  <text x="244" y="240"
+        font-family="'Geist Mono',ui-monospace,'Cascadia Mono',Consolas,monospace"
+        font-size="15.5" font-weight="500" letter-spacing="3" fill="#85818a">FOUNDER,&#160;MT7 &#160;&#183;&#160; DADDYAPI &#160;&#183;&#160; BROWSER-PDF &#160;&#183;&#160; BASEMENTIO</text>
+</svg>
