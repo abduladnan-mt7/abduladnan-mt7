@@ -1,21 +1,57 @@
 <p align="center">
-  <img alt="Abdul Adnan — Founder, Mt7" src="./assets/header.svg" width="100%"/>
+  <img alt="Abdul Adnan — Founder, MT7" src="./assets/header.svg" width="100%"/>
 </p>
 
 <p align="center">
-  <b>I'm Abdul Adnan 👋 — I build developer tools that keep data in your hands.</b><br/>
-  Websites as typed APIs, PDFs that never leave the browser, and a whole cloud on one server.
+  <b>I'm Abdul Adnan 👋 — founder of MT7, building developer tools and products that keep data in your hands.</b><br/>
+  Websites as typed APIs, PDFs that never leave the browser, a whole cloud on one server — and a group of products under MT7.<br/>
+  <sub><i>Most of what I ship runs under <b>MT7 Private Limited</b> and stays private — the repos below are the open slice.</i></sub>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Mt7-IO"><img alt="Founder at Mt7" src="https://img.shields.io/badge/Founder-Mt7-b3121b?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://mt7.io"><img alt="mt7.io" src="https://img.shields.io/badge/web-mt7.io-8a0303?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://github.com/Mt7-IO"><img alt="Founder at MT7" src="https://img.shields.io/badge/Founder-MT7-ff4500?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://mt7.io"><img alt="mt7.io" src="https://img.shields.io/badge/mt7.io-0a0a0b?style=flat-square&logo=googlechrome&logoColor=ff4500"/></a>
   <a href="https://www.npmjs.com/package/@daddyapi/cli"><img alt="daddyapi on npm" src="https://img.shields.io/npm/v/@daddyapi/cli?style=flat-square&label=daddyapi&color=cb3837&logo=npm"/></a>
 </p>
 
 ---
 
-### 🛠️ What I'm building
+### 🌐 Ventures & products
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏢 <a href="https://mt7.io">MT7 — mt7.io</a></h4>
+      Websites, web &amp; mobile apps, SaaS and custom AI voice agents — built in the stack you already run.
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 <a href="https://anticode.si">Anticode — anticode.si</a></h4>
+      Claude, GPT, Gemini and 19 more AI models from one desk, for one monthly price. See what each message costs before you send it.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🍽️ <a href="https://lazyeat.in">LazyEat — lazyeat.in</a></h4>
+      Order food online across Uttar Pradesh — hot, fast, one honest price. No surge, no hidden charges.
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧰 <a href="https://7busyboss.com">7BusyBoss — 7busyboss.com</a></h4>
+      300+ free online calculators, converters, AI generators and dev tools. No signup, no pop-ups.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📈 <a href="https://tradox.tech">Tradox — tradox.tech</a></h4>
+      Market structure and drivers, measured — support/resistance from rejection wicks, every test shown. No buy/sell calls.
+    </td>
+    <td width="50%" valign="top">
+      <h4>✨ More coming</h4>
+      New products ship under MT7 regularly. <a href="https://mt7.io">Watch this space →</a>
+    </td>
+  </tr>
+</table>
+
+### 🛠️ Open source I maintain
 
 | | Project | What it does |
 |---|---|---|
@@ -24,9 +60,9 @@
 | 🏠 | **[BasementIO](https://github.com/abduladnan-mt7/BasementIO)** | Turn one rented server into your own **Vercel + Neon + Upstash**: git-push deploys, PR previews, managed databases and backups, with **no inbound ports open** (Cloudflare Tunnel + Tailscale). |
 | 📱 | **[Greyman Executive](https://github.com/abduladnan-mt7/greyman-native-swift)** | A pure native Swift iOS app. |
 
-### 🌍 Open source
+### 🌍 Contributions
 
-I contribute fixes and features to projects I use:
+I send fixes and features upstream to projects I use:
 
 - ✅ **[dapr/python-sdk](https://github.com/dapr/python-sdk/pull/1309)**: automatic labels for backport PRs *(merged)*
 - ✅ **[MudBlazor](https://github.com/MudBlazor/MudBlazor/pull/14046)**: `ToolBarWrapContent` for DataGrid toolbars *(merged)*
@@ -36,18 +72,26 @@ I contribute fixes and features to projects I use:
 
 <sub>✅ merged · 🔍 in review · [all my pull requests →](https://github.com/pulls?q=is%3Apr+author%3Aabduladnan-mt7+-user%3Aabduladnan-mt7)</sub>
 
-### 🧰 Tools I reach for
+### 🧰 Stack I build on
 
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
+  <img alt=".NET / Blazor" src="https://img.shields.io/badge/.NET%20%2F%20Blazor-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+  <img alt="WebAssembly" src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
   <img alt="Tailscale" src="https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white"/>
-  <img alt="WebAssembly" src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white"/>
+  <img alt="MCP" src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white"/>
 </p>
 
 ### 🤝 Want to help?

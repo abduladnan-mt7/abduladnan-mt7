@@ -1,38 +1,38 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Abdul Adnan — Founder, Mt7">
   <defs>
     <linearGradient id="mark" x1="0" y1="1" x2="1" y2="0">
-      <stop offset="0%" stop-color="#2B0004"/>
-      <stop offset="30%" stop-color="#5E0108"/>
-      <stop offset="60%" stop-color="#8A0303"/>
-      <stop offset="85%" stop-color="#B3121B"/>
-      <stop offset="100%" stop-color="#E14444"/>
+      <stop offset="0%" stop-color="#ff2949"/>
+      <stop offset="45%" stop-color="#ff4500"/>
+      <stop offset="100%" stop-color="#ffae42"/>
     </linearGradient>
-    <radialGradient id="ember" cx="14%" cy="42%" r="40%">
-      <stop offset="0%" stop-color="#b3121b" stop-opacity="0.22"/>
-      <stop offset="100%" stop-color="#b3121b" stop-opacity="0"/>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="60%" stop-color="#ffd9a3"/>
+      <stop offset="100%" stop-color="#ff7a2f"/>
+    </linearGradient>
+    <radialGradient id="ember" cx="14%" cy="40%" r="46%">
+      <stop offset="0%" stop-color="#ff4500" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#ff4500" stop-opacity="0"/>
     </radialGradient>
   </defs>
 
-  <rect width="1200" height="300" fill="#0c0b0d"/>
+  <rect width="1200" height="300" fill="#0a0a0b"/>
+  <g><line x1="0" y1="0" x2="0" y2="300" stroke="#ff4500" stroke-opacity="0.09" stroke-width="1"/><line x1="40" y1="0" x2="40" y2="300" stroke="#ff4500" stroke-opacity="0.05" stroke-width="1"/><line x1="80" y1="0" x2="80" y2="300" stroke="#ff4500" stroke-opacity="0.09" stroke-width="1"/><line x1="120" y1="0" x2="120" y2="300" stroke="#ff4500" stroke-opacity="0.05" stroke-width="1"/><line x1="160" y1="0" x2="160" y2="300" stroke="#ff4500" stroke-opacity="0.09" stroke-width="1"/><line x1="200" y1="0" x2="200" y2="300" stroke="#ff4500" stroke-opacity="0.05" stroke-width="1"/><line x1="240" y1="0" x2="240" y2="300" stroke="#ff4500" stroke-opacity="0.09" stroke-width="1"/><line x1="280" y1="0" x2="280" y2="300" stroke="#ff4500" stroke-opacity="0.05" stroke-width="1"/><line x1="320" y1="0" x2="320" y2="300" stroke="#ff4500" stroke-opacity="0.09" stroke-width="1"/><line x1="360" y1="0" x2="360" y2="300" stroke="#ff4500" stroke-opacity="0.05" stroke-width="1"/><line x1="400" y1="0" x2="400" y2="300" stroke="#ff4500" stroke-opacity="0.09" stroke-width="1"/><line x1="440" y1="0" x2="440" y2="300" stroke="#ff4500" stroke-opacity="0.05" stroke-width="1"/><line x1="480" y1="0" x2="480" y2="300" stroke="#ff4500" stroke-opacity="0.09" stroke-width="1"/><line x1="520" y1="0" x2="520" y2="300" stroke="#ff4500" stroke-opacity="0.05" stroke-width="1"/><line x1="560" y1="0" x2="560" y2="300" stroke="#ff4500" stroke-opacity="0.09" stroke-width="1"/><line x1="600" y1="0" x2="600" y2="300" stroke="#ff4500" stroke-opacity="0.05" stroke-width="1"/><line x1="640" y1="0" x2="640" y2="300" stroke="#ff4500" stroke-opacity="0.09" stroke-width="1"/><line x1="680" y1="0" x2="680" y2="300" stroke="#ff4500" stroke-opacity="0.05" stroke-width="1"/><line x1="720" y1="0" x2="720" y2="300" stroke="#ff4500" stroke-opacity="0.09" stroke-width="1"/><line x1="760" y1="0" x2="760" y2="300" stroke="#ff4500" stroke-opacity="0.05" stroke-width="1"/><line x1="800" y1="0" x2="800" y2="300" stroke="#ff4500" stroke-opacity="0.09" stroke-width="1"/><line x1="840" y1="0" x2="840" y2="300" stroke="#ff4500" stroke-opacity="0.05" stroke-width="1"/><line x1="880" y1="0" x2="880" y2="300" stroke="#ff4500" stroke-opacity="0.09" stroke-width="1"/><line x1="920" y1="0" x2="920" y2="300" stroke="#ff4500" stroke-opacity="0.05" stroke-width="1"/><line x1="960" y1="0" x2="960" y2="300" stroke="#ff4500" stroke-opacity="0.09" stroke-width="1"/><line x1="1000" y1="0" x2="1000" y2="300" stroke="#ff4500" stroke-opacity="0.05" stroke-width="1"/><line x1="1040" y1="0" x2="1040" y2="300" stroke="#ff4500" stroke-opacity="0.09" stroke-width="1"/><line x1="1080" y1="0" x2="1080" y2="300" stroke="#ff4500" stroke-opacity="0.05" stroke-width="1"/><line x1="1120" y1="0" x2="1120" y2="300" stroke="#ff4500" stroke-opacity="0.09" stroke-width="1"/><line x1="1160" y1="0" x2="1160" y2="300" stroke="#ff4500" stroke-opacity="0.05" stroke-width="1"/><line x1="1200" y1="0" x2="1200" y2="300" stroke="#ff4500" stroke-opacity="0.09" stroke-width="1"/><line x1="0" y1="0" x2="1200" y2="0" stroke="#ff4500" stroke-opacity="0.09" stroke-width="1"/><line x1="0" y1="40" x2="1200" y2="40" stroke="#ff4500" stroke-opacity="0.05" stroke-width="1"/><line x1="0" y1="80" x2="1200" y2="80" stroke="#ff4500" stroke-opacity="0.09" stroke-width="1"/><line x1="0" y1="120" x2="1200" y2="120" stroke="#ff4500" stroke-opacity="0.05" stroke-width="1"/><line x1="0" y1="160" x2="1200" y2="160" stroke="#ff4500" stroke-opacity="0.09" stroke-width="1"/><line x1="0" y1="200" x2="1200" y2="200" stroke="#ff4500" stroke-opacity="0.05" stroke-width="1"/><line x1="0" y1="240" x2="1200" y2="240" stroke="#ff4500" stroke-opacity="0.09" stroke-width="1"/><line x1="0" y1="280" x2="1200" y2="280" stroke="#ff4500" stroke-opacity="0.05" stroke-width="1"/></g>
+  <g><circle cx="0" cy="0" r="2.4" fill="#ff4500" fill-opacity="0.32"/><circle cx="40" cy="80" r="2.4" fill="#ffae42" fill-opacity="0.411"/><circle cx="40" cy="240" r="1.6" fill="#ffae42" fill-opacity="0.307"/><circle cx="40" cy="280" r="1.6" fill="#ff4500" fill-opacity="0.515"/><circle cx="80" cy="160" r="2.4" fill="#ff4500" fill-opacity="0.49"/><circle cx="120" cy="200" r="1.6" fill="#ff4500" fill-opacity="0.282"/><circle cx="160" cy="0" r="1.6" fill="#ff4500" fill-opacity="0.27"/><circle cx="200" cy="80" r="1.6" fill="#ffae42" fill-opacity="0.414"/><circle cx="200" cy="120" r="1.6" fill="#ff4500" fill-opacity="0.336"/><circle cx="200" cy="280" r="1.6" fill="#ff4500" fill-opacity="0.414"/><circle cx="240" cy="80" r="2.4" fill="#ff4500" fill-opacity="0.245"/><circle cx="240" cy="120" r="2.4" fill="#ffae42" fill-opacity="0.317"/><circle cx="240" cy="280" r="1.6" fill="#ffae42" fill-opacity="0.245"/><circle cx="280" cy="200" r="2.4" fill="#ff4500" fill-opacity="0.298"/><circle cx="360" cy="40" r="1.6" fill="#ff4500" fill-opacity="0.367"/><circle cx="400" cy="80" r="1.6" fill="#ff4500" fill-opacity="0.241"/><circle cx="400" cy="160" r="1.6" fill="#ff4500" fill-opacity="0.383"/><circle cx="400" cy="240" r="1.6" fill="#ff4500" fill-opacity="0.289"/><circle cx="400" cy="280" r="2.4" fill="#ffae42" fill-opacity="0.194"/><circle cx="440" cy="0" r="1.6" fill="#ffae42" fill-opacity="0.263"/><circle cx="480" cy="80" r="1.6" fill="#ff4500" fill-opacity="0.273"/><circle cx="480" cy="160" r="2.4" fill="#ff4500" fill-opacity="0.169"/><circle cx="480" cy="240" r="2.4" fill="#ff4500" fill-opacity="0.238"/><circle cx="560" cy="200" r="1.6" fill="#ffae42" fill-opacity="0.21"/><circle cx="640" cy="80" r="1.6" fill="#ff4500" fill-opacity="0.157"/><circle cx="720" cy="0" r="1.6" fill="#ff4500" fill-opacity="0.1"/><circle cx="720" cy="120" r="1.6" fill="#ffae42" fill-opacity="0.1"/><circle cx="720" cy="200" r="1.6" fill="#ffae42" fill-opacity="0.1"/><circle cx="760" cy="120" r="2.4" fill="#ff4500" fill-opacity="0.1"/><circle cx="800" cy="40" r="2.4" fill="#ffae42" fill-opacity="0.1"/><circle cx="800" cy="160" r="1.6" fill="#ff4500" fill-opacity="0.1"/><circle cx="880" cy="0" r="1.6" fill="#ff4500" fill-opacity="0.1"/><circle cx="880" cy="40" r="2.4" fill="#ffae42" fill-opacity="0.1"/><circle cx="960" cy="200" r="1.6" fill="#ffae42" fill-opacity="0.1"/><circle cx="1080" cy="280" r="1.6" fill="#ff4500" fill-opacity="0.1"/><circle cx="1120" cy="240" r="2.4" fill="#ff4500" fill-opacity="0.1"/><circle cx="1160" cy="0" r="1.6" fill="#ffae42" fill-opacity="0.1"/><circle cx="1160" cy="80" r="1.6" fill="#ffae42" fill-opacity="0.1"/><circle cx="1160" cy="240" r="2.4" fill="#ffae42" fill-opacity="0.1"/><circle cx="1200" cy="120" r="1.6" fill="#ffae42" fill-opacity="0.1"/><circle cx="1200" cy="240" r="1.6" fill="#ff4500" fill-opacity="0.1"/></g>
   <rect width="1200" height="300" fill="url(#ember)"/>
 
-  <!-- Anticode mark: blood-red rounded square with the mirrored liquid-X glyph -->
-  <g transform="translate(64,86) scale(1.28)">
-    <rect width="100" height="100" rx="26" fill="url(#mark)"/>
-    <path transform="matrix(-1 0 0 1 100 0) translate(-2.712 -1.356) scale(0.33898)" fill="#ffffff"
-      d="M 243.5 9.3 C 232.9 12.9, 230 15.4, 186.4 58.7 C 141.2 103.7, 137.2 107, 125 110.7 C 117.6 113, 101.6 113, 93 110.7 C 84.2 108.4, 68.9 100.6, 61.5 94.7 C 58.2 92.1, 47.9 82.4, 38.7 73.3 C 22.2 57, 19 52.9, 16.1 43.8 C 14.2 38.1, 11.1 37.9, 9.1 43.3 C 7.5 47.3, 7.8 59.7, 9.5 65.3 C 13.1 77.3, 16 80.9, 46.1 110.2 C 77.3 140.6, 79 142.8, 79 152.9 C 79 163.8, 77.8 165.4, 46.7 196.2 C 21.9 220.9, 17.9 225.3, 15.1 231 C 9.3 243, 8.6 255.6, 13.1 267.5 C 17.4 278.7, 31.5 290, 44.5 292.8 C 51.9 294.4, 98 294.6, 99 293.1 C 99.4 292.4, 98.8 289.3, 97.8 286.2 C 93.1 272, 94.7 259.9, 103.7 243 C 131.4 190.8, 193.9 128.2, 257 89.5 C 266.5 83.7, 297 68, 298.9 68 C 303.1 68, 304.2 58.5, 301.6 45.8 C 298.3 30.4, 290.1 19.6, 276.4 12.8 C 268.4 8.9, 267.4 8.7, 257.7 8.3 C 251 8.1, 246.1 8.5, 243.5 9.3 M 285 113.1 C 259.2 136.2, 243.9 163, 236.4 198 C 232.5 216.6, 227.6 223.6, 214.6 229.6 C 205.8 233.6, 192.2 232.8, 182.2 227.6 C 179.4 226.2, 179 226.2, 177.6 227.6 C 176.7 228.5, 176.3 229.7, 176.7 230.4 C 177.2 231.1, 189.2 243.1, 203.5 257.2 C 233.7 286.8, 237.3 289.2, 251.1 289.9 C 273.1 290.9, 294.8 275, 299 254.9 C 300.7 247.1, 299.8 235.1, 297 227.5 C 290.5 209.6, 289 204.4, 287.5 193.5 C 284.3 171.4, 286.5 146.1, 293.8 121.2 C 297.2 109.6, 297.5 107.7, 296.3 106.4 C 295.5 105.6, 294.7 105, 294.4 105 C 294.2 105, 289.9 108.6, 285 113.1"/>
+  <!-- Mt7 mark: the liquid-X in Mt7 orange/red, on a gridded tile -->
+  <g transform="translate(64,86)">
+    <rect width="128" height="128" rx="30" fill="#141416" stroke="#ff4500" stroke-opacity="0.35" stroke-width="1.5"/>
+    <g transform="translate(14,14) scale(1.0)">
+      <path transform="translate(-2.712 -1.356) scale(0.33898)" fill="url(#mark)" d="M 243.5 9.3 C 232.9 12.9, 230 15.4, 186.4 58.7 C 141.2 103.7, 137.2 107, 125 110.7 C 117.6 113, 101.6 113, 93 110.7 C 84.2 108.4, 68.9 100.6, 61.5 94.7 C 58.2 92.1, 47.9 82.4, 38.7 73.3 C 22.2 57, 19 52.9, 16.1 43.8 C 14.2 38.1, 11.1 37.9, 9.1 43.3 C 7.5 47.3, 7.8 59.7, 9.5 65.3 C 13.1 77.3, 16 80.9, 46.1 110.2 C 77.3 140.6, 79 142.8, 79 152.9 C 79 163.8, 77.8 165.4, 46.7 196.2 C 21.9 220.9, 17.9 225.3, 15.1 231 C 9.3 243, 8.6 255.6, 13.1 267.5 C 17.4 278.7, 31.5 290, 44.5 292.8 C 51.9 294.4, 98 294.6, 99 293.1 C 99.4 292.4, 98.8 289.3, 97.8 286.2 C 93.1 272, 94.7 259.9, 103.7 243 C 131.4 190.8, 193.9 128.2, 257 89.5 C 266.5 83.7, 297 68, 298.9 68 C 303.1 68, 304.2 58.5, 301.6 45.8 C 298.3 30.4, 290.1 19.6, 276.4 12.8 C 268.4 8.9, 267.4 8.7, 257.7 8.3 C 251 8.1, 246.1 8.5, 243.5 9.3 M 285 113.1 C 259.2 136.2, 243.9 163, 236.4 198 C 232.5 216.6, 227.6 223.6, 214.6 229.6 C 205.8 233.6, 192.2 232.8, 182.2 227.6 C 179.4 226.2, 179 226.2, 177.6 227.6 C 176.7 228.5, 176.3 229.7, 176.7 230.4 C 177.2 231.1, 189.2 243.1, 203.5 257.2 C 233.7 286.8, 237.3 289.2, 251.1 289.9 C 273.1 290.9, 294.8 275, 299 254.9 C 300.7 247.1, 299.8 235.1, 297 227.5 C 290.5 209.6, 289 204.4, 287.5 193.5 C 284.3 171.4, 286.5 146.1, 293.8 121.2 C 297.2 109.6, 297.5 107.7, 296.3 106.4 C 295.5 105.6, 294.7 105, 294.4 105 C 294.2 105, 289.9 108.6, 285 113.1"/>
+    </g>
   </g>
 
-  <!-- Wordmark + tagline, Anticode-style restraint -->
-  <text x="240" y="150"
-        font-family="'Geist','Inter','Segoe UI',system-ui,-apple-system,sans-serif"
-        font-size="82" font-weight="700" letter-spacing="-2" fill="#f4f1ee">Abdul Adnan</text>
-
-  <text x="243" y="194"
-        font-family="'Geist','Inter','Segoe UI',system-ui,-apple-system,sans-serif"
-        font-size="23" font-weight="400" fill="#a8a3a7">Developer tools that keep your data in your hands.</text>
-
-  <text x="244" y="240"
-        font-family="'Geist Mono',ui-monospace,'Cascadia Mono',Consolas,monospace"
-        font-size="15.5" font-weight="500" letter-spacing="3" fill="#85818a">FOUNDER,&#160;MT7 &#160;&#183;&#160; DADDYAPI &#160;&#183;&#160; BROWSER-PDF &#160;&#183;&#160; BASEMENTIO</text>
+  <text x="232" y="150" font-family="'Montserrat','Geist','Segoe UI',system-ui,sans-serif"
+        font-size="84" font-weight="800" letter-spacing="-2" fill="url(#name)">Abdul Adnan</text>
+  <text x="235" y="194" font-family="'Geist','Segoe UI',system-ui,sans-serif"
+        font-size="22" font-weight="400" fill="#c9c6c2">Founder, MT7 &#183; developer tools that keep your data in your hands.</text>
+  <text x="236" y="240" font-family="'Geist Mono',ui-monospace,Consolas,monospace"
+        font-size="15" font-weight="500" letter-spacing="3" fill="#8a8f98">MT7 &#160;&#183;&#160; ANTICODE &#160;&#183;&#160; LAZYEAT &#160;&#183;&#160; 7BUSYBOSS &#160;&#183;&#160; TRADOX</text>
 </svg>
